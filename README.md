@@ -1,5 +1,15 @@
-# Mist 4610  Project 1
+# Team 9 Mist 4610 Group Project 1
 
+# Team Name
+Group 9
+
+# Team Members
+
+Anastasia Draughn - agd82889@uga.edu <br/>
+Justin Tran - jat966554@uga.edu <br/>
+Claire Friers - cef19295@uga.edu <br/>
+Jack Saylor - jds56127@uga.edu <br/>
+Ayaan Godil - aag53475@uga.edu
 
 # Problem Description
 Our team is designing a data model for a "fake" local coffee shop named "Athens Cafe" where we strive to improve order processing, inventory tracking, employee management, and customer retention. 
