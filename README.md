@@ -1,18 +1,8 @@
-# Team 9 Mist 4610 Group Project 1
+# Mist 4610 Group Project 1
 
-# Team Name
-Group 9
-
-# Team Members
-
-Anastasia Draughn - agd82889@uga.edu <br/>
-Justin Tran - jat966554@uga.edu <br/>
-Claire Friers - cef19295@uga.edu <br/>
-Jack Saylor - jds56127@uga.edu <br/>
-Ayaan Godil - aag53475@uga.edu
 
 # Problem Description
-Our team is designing a data model for a "fake" local coffee shop named "Athens Cafe" where we strive to improve order processing, inventory tracking, employee management, and customer retention. 
+My team am I are designing a data model for a "fake" local coffee shop named "Athens Cafe" where we strive to improve order processing, inventory tracking, employee management, and customer retention. 
 As we all know, a coffee shop offers a variety of coffee beverages - ranging from classic coffee to special lattes and cold brews - as well as coffee beans, freshly baked pastries, and branded merchandise such as mugs and tote bags.
 Customers have the opportunity to place orders in-store, where they can interact with baristas and employees in our cafe.
 As an incentive, the coffee shop offers discounts on select items to encourage customers to return.
@@ -143,13 +133,4 @@ This query is useful for businesses looking to identify orders that involved dis
 # Database Information
 Name of the database: al_Group_47114_G9
 
-# ChatGPT Use
-In order to make sure we are being as clear as possible with where we used AI while working on this project, we are incorporating this section to lay that out. 
 
-We began our project by asking ChatGPT,“I am the owner of a local coffee shop in Athens needing to build a relational database. I have hired some students from the MIST 4610 class at the University of Georgia to create the database for me. They need to know more about my organization to identify which entities, attributes, and relationships are important for me. Start by describing yourself as a real client . Make sure there is enough to build 10 queries (6 complex and 4 simple)”. 
-
-This question was able to help us guide our decisions in what entities we were going to use and the attributes included in them. We used many of its ideas, but edited the response to fit what we were looking for. ChatGPT was also used to get examples of how to write a problem description. 
-
-We also used ChatGPT in confirming how to describe the relationships of our data model in terms of identifying relationships and what type they were. 
-
-Lastly, we used ChatGPT to help think of what type of queries we should use in our model; like the ideas and then we used MySQLWorkbench to create the actual code. As well as used ChatGPT to help describe the queries more in depth of what they are communicating. 
