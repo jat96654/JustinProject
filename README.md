@@ -1,8 +1,8 @@
-# Mist 4610 Group Project 1
+
 
 
 # Problem Description
-My team am I are designing a data model for a "fake" local coffee shop named "Athens Cafe" where we strive to improve order processing, inventory tracking, employee management, and customer retention. 
+I designed a data model for a "fake" local coffee shop named "Athens Cafe" where we strive to improve order processing, inventory tracking, employee management, and customer retention. 
 As we all know, a coffee shop offers a variety of coffee beverages - ranging from classic coffee to special lattes and cold brews - as well as coffee beans, freshly baked pastries, and branded merchandise such as mugs and tote bags.
 Customers have the opportunity to place orders in-store, where they can interact with baristas and employees in our cafe.
 As an incentive, the coffee shop offers discounts on select items to encourage customers to return.
