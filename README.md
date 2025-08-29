@@ -130,7 +130,6 @@ Query 10 retrieves the OrderID, CustomerID, and OrderDateTime for orders that co
 
 This query is useful for businesses looking to identify orders that involved discounted items. By using the EXISTS clause, it checks if the OrderDetails table contains any items that are linked to discounts in the Discounts table.
 
-# Database Information
-Name of the database: al_Group_47114_G9
+
 
 
