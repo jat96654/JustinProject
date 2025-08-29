@@ -2,7 +2,7 @@
 
 
 # Problem Description
-I designed a data model for a "fake" local coffee shop named "Athens Cafe" where we strive to improve order processing, inventory tracking, employee management, and customer retention. 
+I designed a data model for a "fake" local coffee shop named "Athens Cafe" striving to improve order processing, inventory tracking, employee management, and customer retention. 
 As we all know, a coffee shop offers a variety of coffee beverages - ranging from classic coffee to special lattes and cold brews - as well as coffee beans, freshly baked pastries, and branded merchandise such as mugs and tote bags.
 Customers have the opportunity to place orders in-store, where they can interact with baristas and employees in our cafe.
 As an incentive, the coffee shop offers discounts on select items to encourage customers to return.
@@ -15,7 +15,7 @@ Ultimately, by implementing this database, "Athens Cafe" aims to enhance its abi
 
 # Data Model
 ![Datamodel](https://github.com/agd0221/MIST4610Project/blob/main/Image%203-18-25%20at%2011.46%20AM.jpeg)
-This data model is based off of a "fake" local Athens Coffee Shop and shows the relationships between different entities that we will need to use in our store.
+This data model is based off of a "fake" local Athens Coffee Shop and shows the relationships between different entities that will needed to be used in our store.
 
 The Customers entity represents the people that give the coffee shop business by making purchases; they are at the heart of the business. Customers have the attributes name, email, and phone number. Each customer can place multiple orders, establishing a one-to-many relationship between Customers and Orders.
 
